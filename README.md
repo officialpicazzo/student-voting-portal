@@ -1,3 +1,5 @@
+# student-voting-portal
+
 Project: student-voting-portal
 
 How to run:
