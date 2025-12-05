@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { @apply bg-bg; font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Arial; }
+.header-blue { background: linear-gradient(180deg, #1E2A78 0%, #1E2A78 100%); }
+.card { background: white; border-radius: 12px; box-shadow: 0 6px 18px rgba(15,23,42,0.06); }
+.btn-primary { background: #1E2A78; color: white; border-radius: 8px; padding: 10px 16px; }
